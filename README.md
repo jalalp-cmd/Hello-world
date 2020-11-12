@@ -1,2 +1,2 @@
 # Hello-world
-First project
+print("hello world)
